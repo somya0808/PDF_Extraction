@@ -1,3 +1,8 @@
+#output_table.csv shows the output of first page of PDF ("Data2.pdf").
+#output2_table.csv shows the output of second page of PDF ("Data2.pdf").
+#output3_table.csv shows the output of total pages of PDF("Data2.pdf").
+#output4_table.csv shows the output of ("china.pdf_safe.pdf")
+
 from tabula import read_pdf
 import pandas as pd
 
