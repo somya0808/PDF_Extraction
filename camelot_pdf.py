@@ -1,3 +1,5 @@
+# Output of this code is in file named "table_1"
+# Pdf used is "china.pdf_safe.pdf"
 import camelot
 import pandas as pd
 
