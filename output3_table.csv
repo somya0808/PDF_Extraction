@@ -1,0 +1,17 @@
+sample,blue LED value,green LED value,red LED value,blue % transmitted,green % transmitted,red % transmitted,Water sample
+clear water,97.0,19.0,79.0,,,,
+blue water,73.0,11.0,13.0,,,,
+green water,35.0,15.0,14.0,,,,
+tea water,33.0,13.0,70.0,,,,
+clear water,,,,97/97 = 100%,19/19 = 100%,79/79 = 100%,
+blue water,,,,73/97 = 75%,11/19 = 58%,13/79 = 17%,
+green water,,,,35/97 = 36%,15/19 = 79%,14/79 = 18%,
+tea water,,,,33/97 = 34%,13/19 = 68%,70/79 = 91%,
++ 1 tsp milk,13.0,14.0,12.0,,,,
++1tsp milk + blue,10.0,9.0,6.0,,,,
++1tsp milk +green,9.0,13.0,7.0,,,,
++1tsp milk + tea,7.0,9.0,9.0,,,,
+,,,,13/13 = 100%,14/14 = 100%,12/12 = 100%,+ 1 tsp milk
+,,,,10/13 = 77%,9/14 = 64%,6/12 = 50%,+1tsp milk + blue
+,,,,9/13 = 69%,13/14 = 93%,7/12 = 58%,+1tsp milk +green
+,,,,7/13 = 54%,9/14 = 69%,9/12 = 75%,+1tsp milk + tea
